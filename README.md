@@ -1,0 +1,6 @@
+application properties not uploaded 
+spring.application.name=SpringAiProject
+
+spring.ai.anthropic.api-key=<anthropic api key>
+
+spring.ai.openai.api-key=<openai api key>
